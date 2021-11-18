@@ -6,7 +6,7 @@
 
 body{
     font-family: "Montserrat", sans-serif;
-    color: white;
+    color:  rgb(29, 116, 173);
     background: linear-gradient(rgb(127, 241, 247), rgb(25, 121, 145));
 }
 
@@ -41,27 +41,30 @@ header p{
 }
 
 .pad1{
-    background: #60d394;
+    background: #db4019e1;
 }
 
 .pad2{
-    background: #d36060;
+    background: #f8760b;
 }
 
 .pad3{
-    background: #c060d3;
+    background: #f7e016;
 }
 
 .pad4{
-    background: #d3d160;
+    background: #11df45;
 }
 
 .pad5{
-    background: #6860d3;
+    background: #1db1df;
 }
 
 .pad6{
-    background: #60b2d3;
+    background: #4034e6;
+}
+.pad7{
+    background: #7122cc;
 }
 
 @keyframes jump{
